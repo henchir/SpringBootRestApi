@@ -1,4 +1,4 @@
-package com.henchir.config;
+package com.henchir.configuration;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
