@@ -12,4 +12,5 @@ public class WebConfig {
         registrationBean.addUrlMappings("/console/*");
         return registrationBean;
     }
+    
 }
