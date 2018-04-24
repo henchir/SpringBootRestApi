@@ -1,4 +1,4 @@
-package com.henchir.SpringBootRestApi;
+package com.henchir;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
